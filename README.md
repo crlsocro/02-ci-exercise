@@ -25,7 +25,7 @@ I denne leksjonen skal vi se på viktige prinsipper som
 - Naviger til repositoriet ditt i GitHub
 - Velg "Settings"
 - Velg "Branches"
-- Lag en ny "Branch Protection Rule" for Branch "*" (alle) 
+- Lag en ny "Branch Protection Rule" for Branch "main" (alle) 
 - Velg: Require pull request reviews before merging
 - Velg : Require status checks to pass before merging. Hvis dere ikke ser noen verdier i feltet "Search for status checks" skriv "travis". 
 
