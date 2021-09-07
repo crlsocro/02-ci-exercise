@@ -6,6 +6,7 @@ package com.example.demo;
 public class Game {
 
     void roll(int pins) {
+        pins = 10;
     }
 
     int score() {
